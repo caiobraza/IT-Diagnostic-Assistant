@@ -1,0 +1,11 @@
+# Para este projeto, o arquivo requirements.txt precisa ter apenas a linha da biblioteca externa que 
+# nós instalamos e que não vem nativamente no Python:
+
+psutil==5.9.8
+
+# Como as outras bibliotecas que usamos (platform, subprocess, socket) já vêm embutidas no próprio Python 
+# quando você o instala na máquina, elas não precisam entrar no requirements.txt.
+
+# O arquivo serve justamente para isso: avisar o pip quais bibliotecas externas adicionais (como o psutil e, 
+# se você for testar a interface gráfica em outro computador, o customtkinter) precisam ser baixadas para o 
+#projeto rodar perfeitamente.
