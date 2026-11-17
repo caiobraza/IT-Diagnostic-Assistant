@@ -33,4 +33,4 @@ Uma aplicação desktop moderna desenvolvida em Python para auxiliar analistas d
 1. Certifique-se de ter o **Python 3** instalado na sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/caiobraza/it-diagnostic-assistant.git](https://github.com/caiobraza/it-diagnostic-assistant.git)
+   git clone https://github.com/caiobraza/IT-Diagnostic-Assistant.git
